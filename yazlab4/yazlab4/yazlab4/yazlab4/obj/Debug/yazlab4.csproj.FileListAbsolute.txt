@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\yazlab4\yazlab4\bin\Debug\yazlab4.exe.config
+C:\Users\Asus\source\repos\yazlab4\yazlab4\bin\Debug\yazlab4.exe
+C:\Users\Asus\source\repos\yazlab4\yazlab4\bin\Debug\yazlab4.pdb
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.Form1.resources
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.Properties.Resources.resources
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.exe
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.pdb
+C:\Users\Asus\source\repos\yazlab4\yazlab4\obj\Debug\yazlab4.Karıştır.resources
